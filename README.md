@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-# Nmae: Ashwin Akash M
+# Name: Ashwin Akash M
 # Reference No:212223230024
 # Department: AI&DS.
 ## Date: 28-02-2024
