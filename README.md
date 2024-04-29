@@ -1,8 +1,5 @@
 # Ex02 Django ORM Web Application
-# Name: Ashwin Akash M
-# Reference No:212223230024
-# Department: AI&DS.
-## Date: 28-02-2024
+# Date: 28-02-2024
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
 
